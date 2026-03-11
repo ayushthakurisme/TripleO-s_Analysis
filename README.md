@@ -1,4 +1,4 @@
-# TripleOS Burger Analysis
+# TripleOS Sales Analysis
 
 **Objective:** Analyze sales and customer data to identify the best-selling burger, returning customers, customer service feedback, and slowest day part.  
 
